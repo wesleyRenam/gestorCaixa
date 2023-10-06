@@ -1,10 +1,10 @@
 import SideBar from './components/sidebar'
-import Header from './components/header'
+import Login from './pages/home'
 
 export default function Home() {
   return (
     <main className='bg-[#1A202C] w-screen h-screen'>
-      <SideBar/>
+      <Login/>
     </main>
   )
 }

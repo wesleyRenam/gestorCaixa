@@ -10,7 +10,7 @@ export default function Login() {
   }
  
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-black">
+    <main className="flex min-h-screen flex-col items-center justify-center bg-[#1A202C]">
       <div className="w-1/2 h-full">
         <form action="" className="w-full">
           <label htmlFor="email" className="block mb-1 font-semibold text-2xl font-josefin">
